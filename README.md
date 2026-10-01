@@ -39,10 +39,12 @@ Task5_Expense_Tracker/
 
 
 ## How to Run
-Clone or download the repository.
-Open the project folder in a terminal.
-Run:
+1. Clone or download the repository.
+2. Open the project folder in a terminal.
+3. Run:
+```text
 python main.py
+```
 
 
 ## Menu Options
