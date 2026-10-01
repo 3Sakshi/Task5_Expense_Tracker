@@ -48,6 +48,7 @@ python main.py
 
 
 ## Menu Options
+```text
 1. Add Expense
 2. View All Expenses
 3. View Total Expenses
@@ -55,30 +56,42 @@ python main.py
 5. Search Expenses
 6. Delete Expense
 7. Exit
+```
 
 
 ## Data Storage
 Expense data is stored locally in expenses.json.
+
 The application automatically loads existing expenses when it starts and saves changes when expenses are added or deleted.
 
 
 ## Sample Usage
 Example expense:
+```text
 ID: 1
 Category: Food
 Amount: ₹150.00
 Description: Lunch
+```
+
 Example output:
+```text
 Total Expenses: ₹150.00
 Total spent on food: ₹150.00
+```
 
 
 ## Testing
 The project includes automated tests using pytest.
 Test command:
+```text
 pytest -q
+```
 Test result:
+```text
 8 passed in 0.83s
+```
+
 The tests cover:
 - Adding expenses
 - Total expense calculation
