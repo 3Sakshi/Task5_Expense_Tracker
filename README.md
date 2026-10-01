@@ -111,3 +111,6 @@ Through this project, I practiced:
 - Automated testing with pytest
 - Organizing a Python project
 - GitHub project management
+
+## Author
+Sakshi Tayade
