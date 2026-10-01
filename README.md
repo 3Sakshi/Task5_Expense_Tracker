@@ -83,6 +83,7 @@ Total spent on food: ₹150.00
 
 ## Testing
 The project includes automated tests using pytest.
+
 Test command:
 ```text
 pytest -q
