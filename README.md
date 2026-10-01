@@ -28,23 +28,24 @@ Task5_Expense_Tracker/
 ├── validators.py
 ├── storage.py
 └── test_expense_manager.py
+```
 
-Technologies Used
-Python
-JSON
-Dataclasses
-pathlib
-pytest
+## Technologies Used
+- Python
+- JSON
+- Dataclasses
+- pathlib
+- pytest
 
 
-How to Run
+## How to Run
 Clone or download the repository.
 Open the project folder in a terminal.
 Run:
 python main.py
 
 
-Menu Options
+## Menu Options
 1. Add Expense
 2. View All Expenses
 3. View Total Expenses
